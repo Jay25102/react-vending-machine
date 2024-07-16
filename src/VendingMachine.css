@@ -1,0 +1,16 @@
+.Vending-Machine {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    background-image: url("https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcreazilla-store.fra1.digitaloceanspaces.com%2Fcliparts%2F63028%2Fvending-machine-clipart-md.png&f=1&nofb=1&ipt=877981748d373cb084db77fa8a297dec5e3cf9499ca57f2a3f3a989880881117&ipo=images");
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 800px;
+    width: 650px;
+    font-size: 38px;
+}
+
+h3 {
+    color: white;
+    text-shadow: 2px 2px black;
+}
